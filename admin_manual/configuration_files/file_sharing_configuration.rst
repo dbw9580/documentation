@@ -20,7 +20,7 @@ Configure your sharing policy on your Admin page in the Sharing section.
     .. note:: Users will not be able to set the expiration date further
         in the future than the enforced expiration date, although they 
         will be able to set a more recent date.
-        Also note that users will also be able to update the expiration date again at
+        Also note that users will be able to update the expiration date again at
         a later point. The expiration date is based on the current date and not on the share
         creation date. The user will be able to extend the expiration date again whenever a
         previous expiration date is close to be reached.
